@@ -22,4 +22,4 @@ To avoid these kinds of errors in the future, I will continue testing short, typ
 
 3) Other insights/comments/questions that you want the grader/instructor to know.
 
-Mo other insights/comments/questions.
+No other insights/comments/questions.
