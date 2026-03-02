@@ -7,7 +7,7 @@ None of the problems I chose gave me significant challenge. After I finished, I 
 being identical to its DFA. I learned that for counting or modular arithmetic languages, nondeterminism doesn’t reduce the number of
 states because the machine still has to keep exact track of the count. In the future, I plan to try all of the problems, especially the AND/OR cases, to get a better understanding of NFAs.
 
-3) Which problem(s) surprised you with a "gold-st-ring"? Which next state(s) did you not account for in the subset of next states? why?
+2) Which problem(s) surprised you with a "gold-st-ring"? Which next state(s) did you not account for in the subset of next states? why?
 How to make sure you avoid such errors in your future flight/traffic/compiler state controller tasks, or in the near future, the course
 projects/exams?
 
@@ -20,6 +20,6 @@ decided to draw out their transitions in a computation tree and check out the st
 
 To avoid these kinds of errors in the future, I will continue testing short, typical, and edge case strings and trace them carefully.
 
-5) Other insights/comments/questions that you want the grader/instructor to know.
+3) Other insights/comments/questions that you want the grader/instructor to know.
 
 Mo other insights/comments/questions.
